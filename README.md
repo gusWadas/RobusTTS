@@ -3,12 +3,16 @@
 <tr>
 <th rowspan='3'>ID</th>
 <th colspan='3'>Transcrição</th>
+</tr>
+<tr>
 <th>Ground Truth</th>
 <th>YourTTS CP (CMLTTS Pre-Train)</th>
-<th>YourTTS Sim</th>
 <th>F5TTS CP (CommonVoice Pre-Train)</th>
+</tr>
+<tr>
 <th colspan='3'> Similaridades </th>
 </tr>
+<tr>
 </thead>
 <tbody>
 <tr>
