@@ -19,7 +19,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0038-CP015_950.037-979.634.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0038-CP015_950.037-979.634.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8502691388130188</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0038-CP015_950.037-979.634.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0038-CP015_950.037-979.634.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6984037160873413</td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0075-CP566_1103.39-1132.82.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0075-CP566_1103.39-1132.82.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9352328181266785</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0075-CP566_1103.39-1132.82.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0075-CP566_1103.39-1132.82.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7620540261268616</td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0062-CP566_88.377-117.588.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0062-CP566_88.377-117.588.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9433948397636414</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0062-CP566_88.377-117.588.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0062-CP566_88.377-117.588.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8432798981666565</td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0049-CP516_860.377-889.277.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0049-CP516_860.377-889.277.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9608429670333862</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0049-CP516_860.377-889.277.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0049-CP516_860.377-889.277.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7351904511451721</td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0051-CP574_1225.1-1253.97.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0051-CP574_1225.1-1253.97.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9545097351074219</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0051-CP574_1225.1-1253.97.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0051-CP574_1225.1-1253.97.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7580673694610596</td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0012-CP660_1028.2-1056.77.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0012-CP660_1028.2-1056.77.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.94040846824646</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0012-CP660_1028.2-1056.77.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0012-CP660_1028.2-1056.77.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8369693756103516</td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0006-CP553_199.428-227.778.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0006-CP553_199.428-227.778.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.936771810054779</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0006-CP553_199.428-227.778.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0006-CP553_199.428-227.778.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7299379110336304</td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0039-CP015_979.92-1007.45.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0039-CP015_979.92-1007.45.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8505388498306274</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0039-CP015_979.92-1007.45.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0039-CP015_979.92-1007.45.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7150815725326538</td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0002-CP566_32.147-59.247.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0002-CP566_32.147-59.247.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9113330841064453</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0002-CP566_32.147-59.247.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0002-CP566_32.147-59.247.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7378909587860107</td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0058-CP675_1024.93-1051.82.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0058-CP675_1024.93-1051.82.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9678797125816345</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0058-CP675_1024.93-1051.82.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0058-CP675_1024.93-1051.82.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.5992069244384766</td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0002-CP662_551.411-577.871.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0002-CP662_551.411-577.871.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9387568235397339</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0002-CP662_551.411-577.871.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0002-CP662_551.411-577.871.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.759974479675293</td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0054-CP658_1736.28-1762.56.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0054-CP658_1736.28-1762.56.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9508346319198608</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0054-CP658_1736.28-1762.56.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0054-CP658_1736.28-1762.56.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8279046416282654</td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0029-CP558_715.473-739.705.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0029-CP558_715.473-739.705.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9557164907455444</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0029-CP558_715.473-739.705.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0029-CP558_715.473-739.705.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6203424334526062</td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0019-CP270_1654.75-1678.23.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0019-CP270_1654.75-1678.23.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.958821177482605</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0019-CP270_1654.75-1678.23.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0019-CP270_1654.75-1678.23.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7634027004241943</td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0010-CP657_150.993-172.725.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0010-CP657_150.993-172.725.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.95180344581604</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0010-CP657_150.993-172.725.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0010-CP657_150.993-172.725.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8102843761444092</td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0012-CP672_56.998-77.066.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0012-CP672_56.998-77.066.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9624974727630615</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0012-CP672_56.998-77.066.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0012-CP672_56.998-77.066.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8005068302154541</td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0051-CP575_9.039-27.164.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0051-CP575_9.039-27.164.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9728101491928101</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0051-CP575_9.039-27.164.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0051-CP575_9.039-27.164.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7926024198532104</td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0033-CP701_1441.43-1458.93.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0033-CP701_1441.43-1458.93.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9503316283226013</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0033-CP701_1441.43-1458.93.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0033-CP701_1441.43-1458.93.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7954185009002686</td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0002-CP574_515.377-532.05.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0002-CP574_515.377-532.05.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9421817660331726</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0002-CP574_515.377-532.05.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0002-CP574_515.377-532.05.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7946294546127319</td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0044-CP558_1553.1-1569.43.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0044-CP558_1553.1-1569.43.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9484741687774658</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0044-CP558_1553.1-1569.43.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0044-CP558_1553.1-1569.43.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7921465635299683</td>
 </tr>
 <tr>
@@ -199,7 +199,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0036-CP546_628.616-643.728.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0036-CP546_628.616-643.728.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9446446895599365</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0036-CP546_628.616-643.728.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0036-CP546_628.616-643.728.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6901218295097351</td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0016-CP655_570.568-585.559.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0016-CP655_570.568-585.559.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9025808572769165</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0016-CP655_570.568-585.559.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0016-CP655_570.568-585.559.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7000318765640259</td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0026-CP723_629.04-643.998.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0026-CP723_629.04-643.998.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9521042108535767</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0026-CP723_629.04-643.998.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0026-CP723_629.04-643.998.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8942938446998596</td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0009-CP679_49.635-64.548.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0009-CP679_49.635-64.548.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9157766103744507</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0009-CP679_49.635-64.548.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0009-CP679_49.635-64.548.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6928492784500122</td>
 </tr>
 <tr>
@@ -235,7 +235,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0041-CP513_813.117-828.029.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0041-CP513_813.117-828.029.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.948500394821167</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0041-CP513_813.117-828.029.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0041-CP513_813.117-828.029.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7107319831848145</td>
 </tr>
 <tr>
@@ -244,7 +244,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0037-CP656_685.911-700.805.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0037-CP656_685.911-700.805.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9629051089286804</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0037-CP656_685.911-700.805.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0037-CP656_685.911-700.805.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8453232049942017</td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0083-CP520_1425.34-1440.2.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0083-CP520_1425.34-1440.2.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9467246532440186</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0083-CP520_1425.34-1440.2.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0083-CP520_1425.34-1440.2.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7653769254684448</td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0022-CP716_125.057-139.862.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0022-CP716_125.057-139.862.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9367270469665527</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0022-CP716_125.057-139.862.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0022-CP716_125.057-139.862.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8297762274742126</td>
 </tr>
 <tr>
@@ -271,7 +271,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0020-CP646_886.995-901.781.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0020-CP646_886.995-901.781.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9456422328948975</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0020-CP646_886.995-901.781.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0020-CP646_886.995-901.781.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7216942310333252</td>
 </tr>
 <tr>
@@ -280,7 +280,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0023-CP702_409.961-424.671.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0023-CP702_409.961-424.671.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9525278806686401</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0023-CP702_409.961-424.671.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0023-CP702_409.961-424.671.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8568604588508606</td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0021-CP743_198.693-213.324.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0021-CP743_198.693-213.324.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9352558851242065</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0021-CP743_198.693-213.324.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0021-CP743_198.693-213.324.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7826241850852966</td>
 </tr>
 <tr>
@@ -298,7 +298,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0067-CP546_1576.56-1591.05.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0067-CP546_1576.56-1591.05.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9296450614929199</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0067-CP546_1576.56-1591.05.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0067-CP546_1576.56-1591.05.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.701040506362915</td>
 </tr>
 <tr>
@@ -307,7 +307,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0002-CP674_14.303-28.709.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0002-CP674_14.303-28.709.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9543588161468506</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0002-CP674_14.303-28.709.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0002-CP674_14.303-28.709.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7295337915420532</td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0007-CP659_44.96-59.351.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0007-CP659_44.96-59.351.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8979786038398743</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0007-CP659_44.96-59.351.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0007-CP659_44.96-59.351.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.800744354724884</td>
 </tr>
 <tr>
@@ -325,7 +325,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0081-CP742_1205.92-1220.17.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0081-CP742_1205.92-1220.17.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9588403701782227</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0081-CP742_1205.92-1220.17.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0081-CP742_1205.92-1220.17.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8844454288482666</td>
 </tr>
 <tr>
@@ -334,7 +334,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0081-CP707_1445.36-1459.61.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0081-CP707_1445.36-1459.61.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9286596179008484</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0081-CP707_1445.36-1459.61.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0081-CP707_1445.36-1459.61.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8391385078430176</td>
 </tr>
 <tr>
@@ -343,7 +343,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0035-CP515_538.25-552.437.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0035-CP515_538.25-552.437.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9457370042800903</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0035-CP515_538.25-552.437.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0035-CP515_538.25-552.437.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6585664749145508</td>
 </tr>
 <tr>
@@ -352,7 +352,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0054-CP723_1393.72-1407.89.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0054-CP723_1393.72-1407.89.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9633811116218567</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0054-CP723_1393.72-1407.89.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0054-CP723_1393.72-1407.89.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.916131317615509</td>
 </tr>
 <tr>
@@ -361,7 +361,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0053-CP344_1820.6-1834.65.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0053-CP344_1820.6-1834.65.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9282575249671936</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0053-CP344_1820.6-1834.65.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0053-CP344_1820.6-1834.65.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7074477672576904</td>
 </tr>
 <tr>
@@ -370,7 +370,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0006-CP658_109.983-123.966.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0006-CP658_109.983-123.966.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9252854585647583</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0006-CP658_109.983-123.966.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0006-CP658_109.983-123.966.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7428233623504639</td>
 </tr>
 <tr>
@@ -379,7 +379,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0020-CP514_575.103-589.031.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0020-CP514_575.103-589.031.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9568389058113098</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0020-CP514_575.103-589.031.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0020-CP514_575.103-589.031.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.774775505065918</td>
 </tr>
 <tr>
@@ -388,7 +388,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0007-CP675_22.374-36.285.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0007-CP675_22.374-36.285.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9446501731872559</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0007-CP675_22.374-36.285.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0007-CP675_22.374-36.285.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7288743257522583</td>
 </tr>
 <tr>
@@ -397,7 +397,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0039-CP511_1013.03-1026.81.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0039-CP511_1013.03-1026.81.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9035622477531433</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0039-CP511_1013.03-1026.81.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0039-CP511_1013.03-1026.81.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7640988826751709</td>
 </tr>
 <tr>
@@ -406,7 +406,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0071-CP712_1406.73-1420.38.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0071-CP712_1406.73-1420.38.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9637956619262695</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0071-CP712_1406.73-1420.38.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0071-CP712_1406.73-1420.38.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8166584372520447</td>
 </tr>
 <tr>
@@ -415,7 +415,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0026-CP627_997.575-1010.88.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0026-CP627_997.575-1010.88.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8102710843086243</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0026-CP627_997.575-1010.88.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0026-CP627_997.575-1010.88.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6022943258285522</td>
 </tr>
 <tr>
@@ -424,7 +424,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0062-CP716_579.784-592.628.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0062-CP716_579.784-592.628.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9587265253067017</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0062-CP716_579.784-592.628.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0062-CP716_579.784-592.628.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8845636248588562</td>
 </tr>
 <tr>
@@ -433,7 +433,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0127-CP572_1049.31-1061.16.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0127-CP572_1049.31-1061.16.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9493756294250488</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0127-CP572_1049.31-1061.16.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0127-CP572_1049.31-1061.16.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7579050660133362</td>
 </tr>
 <tr>
@@ -442,7 +442,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0021-CP558_405.056-416.718.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0021-CP558_405.056-416.718.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9567974805831909</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0021-CP558_405.056-416.718.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0021-CP558_405.056-416.718.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8313609957695007</td>
 </tr>
 <tr>
@@ -451,7 +451,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0062-CP710_900.164-911.494.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0062-CP710_900.164-911.494.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9452207088470459</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0062-CP710_900.164-911.494.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0062-CP710_900.164-911.494.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8835744857788086</td>
 </tr>
 <tr>
@@ -460,7 +460,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0028-CP671_459.64-470.809.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0028-CP671_459.64-470.809.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9493586421012878</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0028-CP671_459.64-470.809.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0028-CP671_459.64-470.809.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.5857670307159424</td>
 </tr>
 <tr>
@@ -469,7 +469,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0067-CP698_963.154-973.92.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0067-CP698_963.154-973.92.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9084113836288452</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0067-CP698_963.154-973.92.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0067-CP698_963.154-973.92.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.787875771522522</td>
 </tr>
 <tr>
@@ -478,7 +478,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0060-CP520_998.982-1009.69.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0060-CP520_998.982-1009.69.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9612194299697876</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0060-CP520_998.982-1009.69.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0060-CP520_998.982-1009.69.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8054676651954651</td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0032-CP715_1164.78-1175.45.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0032-CP715_1164.78-1175.45.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9677669405937195</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0032-CP715_1164.78-1175.45.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0032-CP715_1164.78-1175.45.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7682552337646484</td>
 </tr>
 <tr>
@@ -496,7 +496,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0027-CP011_1250.69-1261.3.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0027-CP011_1250.69-1261.3.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9093436002731323</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0027-CP011_1250.69-1261.3.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0027-CP011_1250.69-1261.3.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7039867639541626</td>
 </tr>
 <tr>
@@ -505,7 +505,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0031-CP678_641.304-651.873.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0031-CP678_641.304-651.873.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.93729168176651</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0031-CP678_641.304-651.873.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0031-CP678_641.304-651.873.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8059520721435547</td>
 </tr>
 <tr>
@@ -514,7 +514,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0082-CP707_1508.09-1518.64.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0082-CP707_1508.09-1518.64.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9197467565536499</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0082-CP707_1508.09-1518.64.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0082-CP707_1508.09-1518.64.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7954109311103821</td>
 </tr>
 <tr>
@@ -523,7 +523,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0062-CP689_1588.32-1598.83.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0062-CP689_1588.32-1598.83.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9462858438491821</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0062-CP689_1588.32-1598.83.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0062-CP689_1588.32-1598.83.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8488016128540039</td>
 </tr>
 <tr>
@@ -532,7 +532,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0005-CP711_37.016-47.463.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0005-CP711_37.016-47.463.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9461939334869385</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0005-CP711_37.016-47.463.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0005-CP711_37.016-47.463.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7777833938598633</td>
 </tr>
 <tr>
@@ -541,7 +541,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0014-CP524_647.095-657.541.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0014-CP524_647.095-657.541.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9406514167785645</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0014-CP524_647.095-657.541.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0014-CP524_647.095-657.541.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7378554344177246</td>
 </tr>
 <tr>
@@ -550,7 +550,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0075-CP719_1553.61-1563.93.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0075-CP719_1553.61-1563.93.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9039745330810547</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0075-CP719_1553.61-1563.93.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0075-CP719_1553.61-1563.93.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7340711355209351</td>
 </tr>
 <tr>
@@ -559,7 +559,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0017-CP743_175.776-186.083.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0017-CP743_175.776-186.083.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9241275191307068</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0017-CP743_175.776-186.083.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0017-CP743_175.776-186.083.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7259863615036011</td>
 </tr>
 <tr>
@@ -568,7 +568,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0013-CP665_98.747-109.014.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0013-CP665_98.747-109.014.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9674853086471558</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0013-CP665_98.747-109.014.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0013-CP665_98.747-109.014.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8752934336662292</td>
 </tr>
 <tr>
@@ -577,7 +577,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0036-CP717_278.672-288.938.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0036-CP717_278.672-288.938.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9454936385154724</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0036-CP717_278.672-288.938.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0036-CP717_278.672-288.938.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9215831160545349</td>
 </tr>
 <tr>
@@ -586,7 +586,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0005-CP669_34.732-44.984.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0005-CP669_34.732-44.984.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9417672157287598</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0005-CP669_34.732-44.984.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0005-CP669_34.732-44.984.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8176150321960449</td>
 </tr>
 <tr>
@@ -595,7 +595,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0066-CP707_1215.19-1225.44.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0066-CP707_1215.19-1225.44.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9480928182601929</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0066-CP707_1215.19-1225.44.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0066-CP707_1215.19-1225.44.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.819366455078125</td>
 </tr>
 <tr>
@@ -604,7 +604,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0008-CP676_31.909-42.157.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0008-CP676_31.909-42.157.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9055079817771912</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0008-CP676_31.909-42.157.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0008-CP676_31.909-42.157.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7885531187057495</td>
 </tr>
 <tr>
@@ -613,7 +613,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0020-CP009_533.245-543.487.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0020-CP009_533.245-543.487.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9077370762825012</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0020-CP009_533.245-543.487.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0020-CP009_533.245-543.487.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6759171485900879</td>
 </tr>
 <tr>
@@ -622,7 +622,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0040-CP572_1488.78-1499.02.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0040-CP572_1488.78-1499.02.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9543161392211914</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0040-CP572_1488.78-1499.02.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0040-CP572_1488.78-1499.02.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7623214721679688</td>
 </tr>
 <tr>
@@ -631,7 +631,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0081-CP697_1590.55-1600.77.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0081-CP697_1590.55-1600.77.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8978430032730103</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0081-CP697_1590.55-1600.77.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0081-CP697_1590.55-1600.77.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.728082537651062</td>
 </tr>
 <tr>
@@ -640,7 +640,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0001-CP746_0.844-11.053.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0001-CP746_0.844-11.053.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.949688196182251</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0001-CP746_0.844-11.053.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0001-CP746_0.844-11.053.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6800419688224792</td>
 </tr>
 <tr>
@@ -649,7 +649,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0027-CP651_636.957-647.141.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0027-CP651_636.957-647.141.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9481675624847412</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0027-CP651_636.957-647.141.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0027-CP651_636.957-647.141.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7965028285980225</td>
 </tr>
 <tr>
@@ -658,7 +658,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0013-CP646_825.087-835.232.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0013-CP646_825.087-835.232.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9314141869544983</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0013-CP646_825.087-835.232.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0013-CP646_825.087-835.232.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7081068158149719</td>
 </tr>
 <tr>
@@ -667,7 +667,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0067-CP746_1830.33-1840.44.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0067-CP746_1830.33-1840.44.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9398614168167114</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0067-CP746_1830.33-1840.44.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0067-CP746_1830.33-1840.44.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6706265211105347</td>
 </tr>
 <tr>
@@ -676,7 +676,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0011-CP715_150.883-160.971.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0011-CP715_150.883-160.971.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9660453796386719</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0011-CP715_150.883-160.971.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0011-CP715_150.883-160.971.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7466484904289246</td>
 </tr>
 <tr>
@@ -685,7 +685,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0080-CP551_1318.68-1328.75.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0080-CP551_1318.68-1328.75.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9333884716033936</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0080-CP551_1318.68-1328.75.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0080-CP551_1318.68-1328.75.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7574089169502258</td>
 </tr>
 <tr>
@@ -694,7 +694,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0002-CP002_62.998-73.023.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0002-CP002_62.998-73.023.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7598262429237366</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0002-CP002_62.998-73.023.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0002-CP002_62.998-73.023.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6696453094482422</td>
 </tr>
 <tr>
@@ -703,7 +703,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0004-CP649_48.78-58.457.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0004-CP649_48.78-58.457.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8881415128707886</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0004-CP649_48.78-58.457.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0004-CP649_48.78-58.457.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6325013637542725</td>
 </tr>
 <tr>
@@ -712,7 +712,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0041-CP678_884.368-894.038.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0041-CP678_884.368-894.038.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9412482380867004</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0041-CP678_884.368-894.038.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0041-CP678_884.368-894.038.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7728475332260132</td>
 </tr>
 <tr>
@@ -721,7 +721,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0011-CP697_144.759-154.402.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0011-CP697_144.759-154.402.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9580930471420288</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0011-CP697_144.759-154.402.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0011-CP697_144.759-154.402.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7849447727203369</td>
 </tr>
 <tr>
@@ -730,7 +730,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0004-CP549_33.149-42.733.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0004-CP549_33.149-42.733.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9383188486099243</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0004-CP549_33.149-42.733.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0004-CP549_33.149-42.733.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.771982729434967</td>
 </tr>
 <tr>
@@ -739,7 +739,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0022-CP009_546.348-555.93.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0022-CP009_546.348-555.93.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.867875337600708</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0022-CP009_546.348-555.93.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0022-CP009_546.348-555.93.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6576130390167236</td>
 </tr>
 <tr>
@@ -748,7 +748,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0018-CP575_323.46-333.031.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0018-CP575_323.46-333.031.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9054410457611084</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0018-CP575_323.46-333.031.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0018-CP575_323.46-333.031.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6994327902793884</td>
 </tr>
 <tr>
@@ -757,7 +757,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0065-CP746_1818.31-1827.88.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0065-CP746_1818.31-1827.88.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9353285431861877</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0065-CP746_1818.31-1827.88.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0065-CP746_1818.31-1827.88.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7185570001602173</td>
 </tr>
 <tr>
@@ -766,7 +766,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0119-CP572_895.156-904.004.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0119-CP572_895.156-904.004.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9373169541358948</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0119-CP572_895.156-904.004.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0119-CP572_895.156-904.004.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7712700366973877</td>
 </tr>
 <tr>
@@ -775,7 +775,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0075-CP575_837.663-846.505.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0075-CP575_837.663-846.505.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9266843199729919</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0075-CP575_837.663-846.505.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0075-CP575_837.663-846.505.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7385190725326538</td>
 </tr>
 <tr>
@@ -784,7 +784,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0063-CP745_1244.26-1253.1.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0063-CP745_1244.26-1253.1.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8737387657165527</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0063-CP745_1244.26-1253.1.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0063-CP745_1244.26-1253.1.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7999476194381714</td>
 </tr>
 <tr>
@@ -793,7 +793,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0079-CP703_1363.48-1372.31.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0079-CP703_1363.48-1372.31.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9671940803527832</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0079-CP703_1363.48-1372.31.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0079-CP703_1363.48-1372.31.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8530583381652832</td>
 </tr>
 <tr>
@@ -802,7 +802,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0071-CP623_806.81-815.597.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0071-CP623_806.81-815.597.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9348686933517456</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0071-CP623_806.81-815.597.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0071-CP623_806.81-815.597.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7009700536727905</td>
 </tr>
 <tr>
@@ -811,7 +811,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0012-CP663_497.779-506.47.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0012-CP663_497.779-506.47.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8951704502105713</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0012-CP663_497.779-506.47.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0012-CP663_497.779-506.47.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7430290579795837</td>
 </tr>
 <tr>
@@ -820,7 +820,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0029-CP524_1623.56-1632.19.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0029-CP524_1623.56-1632.19.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8521625995635986</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0029-CP524_1623.56-1632.19.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0029-CP524_1623.56-1632.19.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6488885879516602</td>
 </tr>
 <tr>
@@ -829,7 +829,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0014-CP547_119.472-127.723.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0014-CP547_119.472-127.723.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9415075182914734</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0014-CP547_119.472-127.723.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0014-CP547_119.472-127.723.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7940635681152344</td>
 </tr>
 <tr>
@@ -838,7 +838,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0050-CP637_1070.41-1078.63.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0050-CP637_1070.41-1078.63.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9334032535552979</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0050-CP637_1070.41-1078.63.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0050-CP637_1070.41-1078.63.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8874996900558472</td>
 </tr>
 <tr>
@@ -847,7 +847,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0061-CP679_881.33-889.512.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0061-CP679_881.33-889.512.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9253876209259033</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0061-CP679_881.33-889.512.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0061-CP679_881.33-889.512.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6849582195281982</td>
 </tr>
 <tr>
@@ -856,7 +856,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0048-CP551_690.459-698.622.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0048-CP551_690.459-698.622.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8942857980728149</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0048-CP551_690.459-698.622.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0048-CP551_690.459-698.622.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7813974618911743</td>
 </tr>
 <tr>
@@ -865,7 +865,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0079-CP623_853.479-861.621.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0079-CP623_853.479-861.621.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8960597515106201</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0079-CP623_853.479-861.621.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0079-CP623_853.479-861.621.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6733695268630981</td>
 </tr>
 <tr>
@@ -874,7 +874,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0015-CP648_689.891-698.017.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0015-CP648_689.891-698.017.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9045847654342651</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0015-CP648_689.891-698.017.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0015-CP648_689.891-698.017.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7357562780380249</td>
 </tr>
 <tr>
@@ -883,7 +883,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0034-CP725_600.568-608.671.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0034-CP725_600.568-608.671.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9423266649246216</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0034-CP725_600.568-608.671.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0034-CP725_600.568-608.671.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8577660918235779</td>
 </tr>
 <tr>
@@ -892,7 +892,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0015-CP720_1248.02-1256.1.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0015-CP720_1248.02-1256.1.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9447859525680542</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0015-CP720_1248.02-1256.1.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0015-CP720_1248.02-1256.1.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.8874790668487549</td>
 </tr>
 <tr>
@@ -901,7 +901,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0038-CP743_470.678-478.742.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0038-CP743_470.678-478.742.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9058036208152771</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0038-CP743_470.678-478.742.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0038-CP743_470.678-478.742.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.6489541530609131</td>
 </tr>
 <tr>
@@ -910,7 +910,7 @@ Apresentação das inferências realizadas para o Projeto de Graduação: "Avali
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'ground_truth/0054-CP572_1823.22-1831.28.wav' }}" type="audio/mpeg"></audio></td>
   <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'yt-fn-cml/sr16k_mono_0054-CP572_1823.22-1831.28.wav_synthesized.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.9359356164932251</td>
-  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-cv-fn/cv-fn_0054-CP572_1823.22-1831.28.wav' }}" type="audio/mpeg"></audio></td>
+  <td><audio controls preload style="width: 150px; height:40px;"><source src="{{ 'f5-fn-cv/cv-fn_0054-CP572_1823.22-1831.28.wav' }}" type="audio/mpeg"></audio></td>
   <td>0.7770459651947021</td>
 </tr>
 </table>
