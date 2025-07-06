@@ -21,7 +21,6 @@ Dataset Multi-locutor de Diálogos em Português
 <th colspan='3'> Similaridades </th>
 </tr>
 <tr>
-</thead>
 <tbody>
 <tr>
   <td rowspan='3'>01</td>
