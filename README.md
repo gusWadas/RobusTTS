@@ -1,3 +1,11 @@
+<h1><strong>
+Avaliação de Robustez de Modelos TTS Multilíngue com
+Dataset Multi-locutor de Diálogos em Português
+</strong></h1>
+
+<p>Material do Trabalho de Conclusão de Curso de Gustavo Wadas, no conexto  disponibilização pública de um novo dataset do projeto <a href="https://sites.google.com/view/tarsila-c4ai"><strong>TaRSila</strong></a></p> — o dataset 'Certas Palavras' —  para servir de treinamento para modelos de síntese de fala espontânea em Português Brasileiro.
+
+<h2>Tabela de Áudios e Similaridades</h2>
 <table border='1' cellspacing='0' cellpadding='4'>
 <thead>
 <tr>
