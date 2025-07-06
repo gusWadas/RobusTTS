@@ -1424,4 +1424,3 @@ Dataset Multi-locutor de Diálogos em Português
   <td><center>0.7770459651947021</center></td>
 </tr>
 </tbody>
-</table>
